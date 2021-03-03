@@ -3,3 +3,4 @@ dlib
 opencv-python
 imutils
 cmake
+scipy
